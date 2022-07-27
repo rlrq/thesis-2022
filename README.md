@@ -1,2 +1,2 @@
 # thesis-2022
-Thesis materials
+Supplementary thesis materials too unwieldy to be included in thesis appendix.
