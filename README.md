@@ -5,7 +5,7 @@ Supplementary thesis materials for each chapter that are too unwieldy to be incl
 
 ## Corrections
 ### Chapter 4, preface
-Supplementary materials can be found at https://github.com/rlrq/thesis-2022/tree/main/chapter%203 instead of the link provided in the thesis.
+Supplementary materials can be found at https://github.com/rlrq/thesis-2022/tree/main/chapter%204 instead of the link provided in the thesis.
 
 ## Addition
 ### Chapter 3, Materials and Methods
