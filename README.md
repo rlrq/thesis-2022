@@ -7,7 +7,7 @@ Supplementary thesis materials for each chapter that are too unwieldy to be incl
 ### Chapter 4, preface
 Supplementary materials can be found at https://github.com/rlrq/thesis-2022/tree/main/chapter%204 instead of the link provided in the thesis.
 
-## Addition
+## Additions
 ### Chapter 3, Materials and Methods
 #### 3.4.8 GWAS (section to be inserted immediately after '3.4.7 F1 hybrid generation and characterisation')
 
