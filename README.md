@@ -10,6 +10,7 @@ Supplementary materials can be found at https://github.com/rlrq/thesis-2022/tree
 ## Addition
 ### Chapter 3, Materials and Methods
 3.4.8 GWAS (Section to be inserted immediately after 'F1 hybrid generation and characterisation')
+
 GWAS was performed with easyGWAS (Grimm et al., 2017) using the 1001 Genomes Data (Alonso-Blanco et al., 2016) dataset and the TAIR10 gene annotation set. All other parameters were left as default. The .pheno file specifying pseudo-phenotypes based on PAV of 40A and/or 40B can be found at https://github.com/rlrq/thesis-2022/tree/main/chapter%203.
 
 References for new section 3.4.8:
